@@ -1,2 +1,3 @@
-# condominio_acaua
-Condominio Acauã
+# Prestações de Contas — Condomínio Acauã
+
+Repositório com as prestações de contas do Condomínio Acauã.
